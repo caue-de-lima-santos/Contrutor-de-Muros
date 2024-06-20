@@ -1,0 +1,19 @@
+#corpo{
+    border: solid #128164 2px;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    font: bold large "Century Gothic";
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #1e4565;
+    color: antiquewhite;
+}
+body{
+    background-color: cornflowerblue;
+}
+#titulo{
+    color: #36c357;
+}
